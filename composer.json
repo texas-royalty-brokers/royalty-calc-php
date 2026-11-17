@@ -7,5 +7,5 @@
     "keywords": ["royalty", "mineral rights", "oil and gas", "texas"],
     "authors": [{"name": "Texas Royalty Brokers", "homepage": "https://texasroyaltybrokers.com/"}],
     "require": {"php": ">=7.4"},
-    "autoload": {"psr-4": {"TexasRoyaltyBrokers\RoyaltyCalc\": "src/"}}
+    "autoload": {"psr-4": {"TexasRoyaltyBrokers\\RoyaltyCalc\\": "src/"}}
 }
