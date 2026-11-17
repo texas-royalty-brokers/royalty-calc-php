@@ -1,0 +1,11 @@
+{
+    "name": "texas-royalty-brokers/royalty-calc",
+    "description": "PHP helpers for estimating oil and gas royalty payments and decimal interest for mineral owners. By Texas Royalty Brokers.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://texasroyaltybrokers.com/",
+    "keywords": ["royalty", "mineral rights", "oil and gas", "texas"],
+    "authors": [{"name": "Texas Royalty Brokers", "homepage": "https://texasroyaltybrokers.com/"}],
+    "require": {"php": ">=7.4"},
+    "autoload": {"psr-4": {"TexasRoyaltyBrokers\RoyaltyCalc\": "src/"}}
+}
